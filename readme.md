@@ -450,6 +450,8 @@ Concerning [default network shares of QuickBooks](https://quickbooks.intuit.com/
 
 ```
 "220" "230 Login successful." port:21
+port:21 "IPv6" "220" "230 Login successful."
+
 ```
 
 
