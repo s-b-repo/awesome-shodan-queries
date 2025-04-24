@@ -450,7 +450,105 @@ Concerning [default network shares of QuickBooks](https://quickbooks.intuit.com/
 
 ```
 "220" "230 Login successful." port:21
+
 port:21 "IPv6" "220" "230 Login successful."
+
+port:21 "welcome to the" "220" "230 Login successful."
+
+port:21 "welcome to " "220" "230 Login successful."
+
+port:21 "welcome to asus" "220" "230 Login successful."
+
+port:21 "welcome to tp" "220" "230 Login successful."
+
+port:21 "welcome to my" "220" "230 Login successful."
+
+port:21 "private" "220" "230 Login successful."
+
+port:21 "ext.1" "220" "230 Login successful."
+
+port:21 "ext.3" "220" "230 Login successful."
+
+port:21 "porn" "220" "230 Login successful."
+
+port:21 "you" "220" "230 Login successful."
+
+port:21 " legacy FTP " "220" "230 Login successful."
+
+port:21 "German " "220" "230 Login successful."
+
+port:21 "south africa " "220" "230 Login successful."
+
+port:21 "admin " "220" "230 Login successful."
+
+port:21 " compromised " "220" "230 Login successful."
+
+port:21 " owned " "220" "230 Login successful."
+
+port:21 " y?? " "220" "230 Login successful."
+
+port:21 " database" "220" "230 Login successful."
+
+port:21 " FORBIDDEN " "220" "230 Login successful."
+
+port:21 "  do not " "220" "230 Login successful."
+
+port:21 " live" "220" "230 Login successful."
+
+port:21 " prod " "220" "230 Login successful."
+
+port:21 " test " "220" "230 Login successful."
+
+port:21 " temporary  " "220" "230 Login successful."
+
+port:21 " FileZilla Server " "220" "230 Login successful." 
+
+port:21 " door" "220" "230 Login successful."
+
+port:21 "Computers & Control" "220" "230 Login successful."
+
+port:21 "Computers " "220" "230 Login successful."
+
+port:21 "Welcome to open" "220" "230 Login successful."
+
+port:21 "Welcome to our" "220" "230 Login successful."
+
+port:21 "jap" "220" "230 Login successful."
+
+port:21 " research " "220" "230 Login successful."
+
+port:21 "  storage" "220" "230 Login successful."
+
+port:21 "  archive" "220" "230 Login successful."
+
+port:21 "  To upload an " "220" "230 Login successful."
+
+port:21 "  upload " "220" "230 Login successful."
+
+port:21 " ware " "220" "230 Login successful."
+
+port:21 "/upload " "220" "230 Login successful."
+
+port:21 "/download " "220" "230 Login successful."
+
+port:21 " Foundation " "220" "230 Login successful."
+
+port:21 " /file " "220" "230 Login successful."
+
+port:21 " dna" "220" "230 Login successful."
+
+port:21 "home" "220" "230 Login successful."
+
+port:21 " Control " "220" "230 Login successful."
+
+port:21 " InterNIC " "220" "230 Login successful."
+
+port:21 " /pub/FreeBSD " "220" "230 Login successful."
+
+port:21 " /pub/ " "220" "230 Login successful."
+
+port:21 " pub/CentOS" "220" "230 Login successful."
+
 
 ```
 
