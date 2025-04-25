@@ -239,6 +239,11 @@ Secured by default, thankfully, but these 1,700+ machines still [have no busines
 
 
 ---
+## ssh
+
+```
+port:22 has_ipv6:true "200 ok"
+```
 
 
 ## Network Infrastructure
