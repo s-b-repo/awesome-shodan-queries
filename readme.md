@@ -69,6 +69,13 @@ P372 "ANPR enabled"
 mikrotik streetlight
 ```
 
+### camera's ipv6
+```
+
+port:554 has_ipv6:true "200 ok"
+
+```
+
 
 ### Voting Machines in the United States [🔎 &#x2192;](https://www.shodan.io/search?query=%22voter+system+serial%22+country%3AUS)
 
