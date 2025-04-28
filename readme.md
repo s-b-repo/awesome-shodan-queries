@@ -14,6 +14,12 @@ The world and its devices are quickly becoming more connected through the shiny 
 
 **And as always, [discover and disclose responsibly](https://www.bugcrowd.com/resource/what-is-responsible-disclosure/)! 🤓**
 
+### IMAP4 IMAP4rev ??
+
+```
+"authenticated" -not-authenticated "* CAPABILITY "
+```
+
 ###  WebKredit on windows 10
 
 ```
