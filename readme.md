@@ -16,9 +16,9 @@ The world and its devices are quickly becoming more connected through the shiny 
 
 #### spotify-connect:
 
-````
-mDNS  mDNS:   services:     41800/tcp spotify-connect:
 
+```
+mDNS  mDNS:   services:     41800/tcp spotify-connect:
 
 
 ```
