@@ -15,21 +15,19 @@ The world and its devices are quickly becoming more connected through the shiny 
 **And as always, [discover and disclose responsibly](https://www.bugcrowd.com/resource/what-is-responsible-disclosure/)! 🤓**
 
 
+### passbolt foss 
+
+````
+"authenticated" -not-authenticated product:"nginx"
+
+````
+### GreasySpoon
+
 ---
 
-
-### **Table of Contents**
-
-- [Industrial Control Systems](#industrial-control-systems)
-- [Remote Desktop](#remote-desktop)
-- [Network Infrastructure](#network-infrastructure)
-- [Network Attached Storage (NAS)](#network-attached-storage-nas)
-- [Webcams](#webcams)
-- [Printers & Copiers](#printers--copiers)
-- [Home Devices](#home-devices)
-- [Random Stuff](#random-stuff)
-
-
+```
+X-Include: X-Client-IP, X-Authenticated-Groups, X-Authenticated-User, X-Subscriber-Id
+````
 ---
 
 
