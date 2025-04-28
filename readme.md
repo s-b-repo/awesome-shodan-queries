@@ -14,6 +14,11 @@ The world and its devices are quickly becoming more connected through the shiny 
 
 **And as always, [discover and disclose responsibly](https://www.bugcrowd.com/resource/what-is-responsible-disclosure/)! 🤓**
 
+###  webkit on windows 10
+
+```
+"authenticated" -not-authenticated "Server: Microsoft-IIS/10.0"
+````
 
 ### passbolt foss 
 
@@ -21,6 +26,7 @@ The world and its devices are quickly becoming more connected through the shiny 
 "authenticated" -not-authenticated product:"nginx"
 
 ````
+
 ### GreasySpoon
 
 ---
@@ -66,11 +72,13 @@ P372 "ANPR enabled"
 ```
 mikrotik streetlight
 ```
+
 ### the best query so far 
 
 ```
 "test "
 ```
+
 ###
 ### camera's ipv6
 ```
