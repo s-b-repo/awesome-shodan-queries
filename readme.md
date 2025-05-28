@@ -18,9 +18,9 @@ The world and its devices are quickly becoming more connected through the shiny 
 "authentication disabled" "RFB 003.008" -FictusVNC -Who -QEMU -HAWK -VeNCrypt -x11
 
 ```
+#### less honeypots and troll open vnc for critical infrastructure
 
-
-
+"authentication disabled" "RFB 003.008" -FictusVNC -Who -QEMU -HAWK -VeNCrypt -x11 " Server Name: PanelView VNC Server"
 
 #### Random accidents and flaws
 
