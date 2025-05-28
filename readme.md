@@ -12,7 +12,7 @@ The world and its devices are quickly becoming more connected through the shiny 
 220-test
 
 ```
-#### less honeypots and troll
+#### less honeypots and troll open vnc
 
 ```
 "authentication disabled" "RFB 003.008" -FictusVNC -Who -QEMU -HAWK -VeNCrypt -x11
