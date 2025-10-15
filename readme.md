@@ -311,6 +311,14 @@ Secured by default, thankfully, but these 1,700+ machines still [have no busines
 
 ```
 "HID VertX" port:4070
+
+""Name: VertX_EVO_V1000"  "
+""EdgeEH400"  "
+" door controller:  "
+"AXIS A1001 Network Door "
+
+
+
 ```
 
 
