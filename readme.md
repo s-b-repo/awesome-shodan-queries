@@ -4,6 +4,24 @@ You can assume these queries only return unsecured/open instances when possible.
 
 The world and its devices are quickly becoming more connected through the shiny new [Internet of ~~Things~~ Sh*t](https://motherboard.vice.com/en_us/topic/internet-of-shit) — and exponentially [more dangerous](https://blog.malwarebytes.com/101/2017/12/internet-things-iot-security-never/) as a result. To that end, I hope this list spreads awareness (and, quite frankly, pant-wetting fear) rather than harm. 
 
+### inventory systems
+```
+INVENTORY REPORT  TANK   PRODUCT
+
+"Tanker Network"
+
+
+
+```
+
+
+### open chineses cameras ?
+```
+DH-NVR  ###closed
+DH-NVR CONNECTION: keep-alive
+```
+
+
 ### cooling systems 
 ```
 Product Chilling Mode Chilling Glycol Product
