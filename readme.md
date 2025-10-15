@@ -98,8 +98,8 @@ port:23 " Welcome to the Windows CE Telnet Service"
 port:23 " Integrated Operating System.   "
 port:23 " MiiNePort "
 port:23 " MAXFIBER "
-
-
+port:23 "Welcome To Drcom NOS"
+port:23 "Welcome to DZS"
 
 
 ````
