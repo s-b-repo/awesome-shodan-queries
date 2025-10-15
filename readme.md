@@ -111,6 +111,15 @@ port:23 " help"
 port:23 " Available Commands:"
 port:23 "Enco control Telnet"
 port:23 " AXTEL S.A. de C.V."
+port:23 "User Access Verification"
+port:23 "CC\r\n\r\n***************************************************************************\r\n*"
+port:23 "Cliente:"
+port:23 " Telecom Italia"
+port:23 "Gaia4"
+port:23 " SAS" country:"IT"
+port:23 " TiMOS"
+
+
 
 ````
 ### GreasySpoon
