@@ -13,8 +13,10 @@ INVENTORY REPORT  TANK   PRODUCT
 
 
 ```
-
-
+### everything open in china
+```
+CONNECTION: keep-alive country:"CN"
+```
 ### open chineses cameras ?
 ```
 DH-NVR  ###closed
