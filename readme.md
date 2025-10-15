@@ -118,6 +118,14 @@ port:23 " Telecom Italia"
 port:23 "Gaia4"
 port:23 " SAS" country:"IT"
 port:23 " TiMOS"
+port:23 " Esta conectado"
+port:23 "(none) login:"
+port:23 "kernel" "CentOS "
+port:23 "Ingenic linux machine"
+port:23 "Windows users "
+port:23 "kernel" country:"RU"
+
+
 
 
 
