@@ -88,7 +88,10 @@ mDNS  mDNS:   services:     41800/tcp spotify-connect:
 "authenticated" -not-authenticated product:"nginx"
 
 ````
-
+### router telnets 
+````
+port:23 "welcome"
+````
 ### GreasySpoon
 
 ---
