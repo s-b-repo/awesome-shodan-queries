@@ -15,7 +15,7 @@ The world and its devices are quickly becoming more connected through the shiny 
 #### less honeypots and troll open vnc
 
 ```
-"authentication disabled" "RFB 003.008" -FictusVNC -Who -QEMU -HAWK -VeNCrypt -x11
+"authentication disabled" "RFB 003.008" -FictusVNC -Who -QEMU -HAWK  -fixtux -VeNCrypt -x11
 
 ```
 #### less honeypots and troll open vnc for critical infrastructure
