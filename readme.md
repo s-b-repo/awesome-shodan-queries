@@ -91,6 +91,9 @@ mDNS  mDNS:   services:     41800/tcp spotify-connect:
 ### router telnets 
 ````
 port:23 "welcome"
+port:23 " Model:"
+
+
 ````
 ### GreasySpoon
 
