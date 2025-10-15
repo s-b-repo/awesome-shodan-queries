@@ -107,8 +107,10 @@ port:23 "2006 Huawei Technologies"
 port:23 "Welcome to ZXR10 Carrier-Class High-end"
 port:23 "CCCC"
 port:23 " DASAN Zhone Solutions"
-
-
+port:23 " help"
+port:23 " Available Commands:"
+port:23 "Enco control Telnet"
+port:23 " AXTEL S.A. de C.V."
 
 ````
 ### GreasySpoon
