@@ -95,6 +95,9 @@ port:23 " Model:"
 port:23 " Please keyin your password:"
 port:23 " Firmware version : "
 port:23 " Welcome to the Windows CE Telnet Service"
+port:23 " Integrated Operating System.   "
+port:23 " MiiNePort "
+port:23 " MAXFIBER "
 
 
 
