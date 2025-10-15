@@ -92,6 +92,11 @@ mDNS  mDNS:   services:     41800/tcp spotify-connect:
 ````
 port:23 "welcome"
 port:23 " Model:"
+port:23 " Please keyin your password:"
+port:23 " Firmware version : "
+port:23 " Welcome to the Windows CE Telnet Service"
+
+
 
 
 ````
