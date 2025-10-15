@@ -100,6 +100,14 @@ port:23 " MiiNePort "
 port:23 " MAXFIBER "
 port:23 "Welcome To Drcom NOS"
 port:23 "Welcome to DZS"
+port:23 "zlm60 "
+port:23 "Welcome Visiting Huawei Home Gateway"
+port:23 "Huawei TERMINAL Multi-service Distribution Module"
+
+
+
+
+
 
 
 ````
