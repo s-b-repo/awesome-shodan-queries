@@ -13,6 +13,70 @@ INVENTORY REPORT  TANK   PRODUCT
 
 
 ```
+### apache
+
+```
+"Server: Apache/2.4" "200"
+```
+### proxy
+
+```
+"HTTP/1.0 407 Proxy Authentication Required"
+"Proxy-Authenticate:"
+"realm="proxy"" -Unauthorized -Bad -Forbidden
+"realm=proxy" -Unauthorized -Bad -Forbidden
+"realm=login" -Unauthorized -Bad -Forbidden
+"proxy"  "CONNECTION: keep-alive" -Unauthorized
+Proxy-Authenticate: Basic realm="Invalid proxy credentials or missing IP Authorization."
+Proxy-Authenticate: "CONNECTION: keep-alive" -Tinyproxy -Unauthorized
+"Proxy-Authenticate: Basic realm=Proxy Manager"
+Proxy-Authenticate: Basic realm="Luminati"
+
+
+
+
+
+
+
+
+
+
+
+```
+
+### open search
+```
+"  X-OpenSearch-Version:" "200 OK"
+
+
+```
+
+### file size 
+
+```
+"  Total Size: "
+
+```
+
+### elastic
+
+```
+"  gl-events_"
+
+
+```
+
+### wazuh security 
+```
+"   wazuh-alerts"
+wazuh
+wazuh "HTTP/1.1 200 OK"
+
+```
+### Prometheus Node Exporter
+```
+"200" product:"Prometheus Node Exporter"
+```
 ### everything open in china
 ```
 CONNECTION: keep-alive country:"CN"
