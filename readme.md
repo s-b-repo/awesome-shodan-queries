@@ -13,6 +13,28 @@ INVENTORY REPORT  TANK   PRODUCT
 
 
 ```
+### pragma
+```
+"Pragma: public"
+"Pragma: private"
+```
+### sip
+```
+SIP/2.0 200 OK
+Via: SIP -4 
+Call-ID:
+Accept: application/sdp,
+```
+### xiaomi
+```
+xiaomi -Unauthorized
+Xiaomi IoT: -Unauthorized
+
+
+
+```
+
+```
 ### apache
 
 ```
